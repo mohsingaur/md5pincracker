@@ -53,7 +53,7 @@
 <body>
 
 	<?php 
-	// Adding in git repo
+	// Adding in git1 repo
 	$output = "";
 	$res = "Not Found";
 	$show = 0;
